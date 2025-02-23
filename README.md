@@ -16,3 +16,8 @@ CSS Styling: CSS is the hero of this design, bringing life to the page with cris
 Responsive Design: Whether your visitors are on mobile, tablet, or desktop, the page responds to different screen sizes with ease, delivering an optimized user experience every time.
 User-Centered Layout: Every element on the page has been carefully positioned to guide users through the content effortlessly, ensuring they are informed, engaged, and ready to take action.
 Visual Consistency: With CSS, we’ve created a harmonious design language across buttons, links, and text, giving your landing page a polished, professional look.
+
+**output
+![Image](https://github.com/user-attachments/assets/817d2ca0-4529-482a-af50-6788020cb055)
+
+![Image](https://github.com/user-attachments/assets/86a2c639-2415-4dec-a5ff-17890cf4ebff)
